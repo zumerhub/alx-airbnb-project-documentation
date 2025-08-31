@@ -103,7 +103,7 @@ This document outlines the **key features and functionalities** required for the
 
 A **visual representation** of the backend features and their relationships has been created using **Draw.io**.  
 
-![Airbnb Clone Backend Features](airbnb-backend-features.png)
+![Airbnb Clone Backend Features]([airbnb-backend-features.png](https://github.com/zumerhub/alx-airbnb-project-documentation/blob/main/features-and-functionalities/features_ER%20diagram.png)
 
 ---
 
